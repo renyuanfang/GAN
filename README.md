@@ -8,7 +8,7 @@ DCGAN            |  LSGAN
 
 LS_GAN    |  WGAN_GP
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/renyuanfang/GAN/blob/master/images/DCGAN_mnist_epoch_50000_test.jpg) |  ![alt text](https://github.com/renyuanfang/GAN/blob/master/images/WGAN_GP_mnist_epoch_50000_test.jpg) 
+![alt text](https://github.com/renyuanfang/GAN/blob/master/images/LS_GAN_mnist_epoch_60000_test.jpg) |  ![alt text](https://github.com/renyuanfang/GAN/blob/master/images/WGAN_GP_mnist_epoch_50000_test.jpg) 
 
 
 # Fashion-mnist
